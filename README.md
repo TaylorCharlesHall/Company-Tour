@@ -1,3 +1,5 @@
+<img src="comptour.jpg" width='100'/>
+
 # Company Tour
 Independent MITxPro project that pegs the five largest companies of Miami in order (September 2023 according to Finance Charts.com) with a clickable marker.
 
