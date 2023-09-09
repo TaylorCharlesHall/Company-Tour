@@ -1,2 +1,4 @@
 # map
-Pegs the biggest companies in Miami with a clickable marker
+Pegs the biggest five companies Miami in order with a clickable marker.
+
+## Makes use of cycling through lattitudes and longitudes before rendering.
