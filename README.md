@@ -1,4 +1,5 @@
-# map
-Pegs the biggest five companies Miami in order with a clickable marker.
+# Company Tour
+Independent MITxPro project that pegs the five largest companies of Miami in order (September 2023 according to Finance Charts.com) with a clickable marker.
 
-## Makes use of cycling through lattitudes and longitudes before rendering.
+### Details
+Makes use of cycling through lattitudes and longitudes before rendering.
