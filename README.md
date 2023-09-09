@@ -3,3 +3,6 @@ Independent MITxPro project that pegs the five largest companies of Miami in ord
 
 ### Details
 Makes use of cycling through lattitudes and longitudes before rendering.
+
+#### Potential Improvements
+Double clicking a companies location will leave a marker permanent that doesn't disappear until clicked.
