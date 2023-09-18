@@ -10,4 +10,4 @@ Makes use of cycling through lattitudes and longitudes before rendering. One mus
 Double clicking a companies location will leave a permanent marker that doesn't disappear until clicked.
 
 #### How to Run
-Install dependencies from repository into the same directory. https://github.com/TaylorCharlesHall/company-tour. Drag and drop the index file into any browser.
+Install dependencies from the [repository](https://github.com/TaylorCharlesHall/company-tour into the same directory). Drag and drop the index file into any browser.
