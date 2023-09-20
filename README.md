@@ -11,3 +11,5 @@ Double clicking a companies location will leave a permanent marker that doesn't 
 
 #### How to Run
 Install dependencies from the [repository](https://github.com/TaylorCharlesHall/company-tour) into the same directory. Drag and drop the index file into any browser. You can also run it by clicking [here](https://taylorcharleshall.github.io/company-tourun).
+
+[Home](https://taylorcharleshall.github.io)
